@@ -1,0 +1,10 @@
+co.edu.uco.publiuco
+--->repository JP
+--->service JP
+--->api SpringBoot
+--->entity JP
+--->dto JP
+--->crosscutting JP
+
+co.edu.uco
+--->crosscutting JP
