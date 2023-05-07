@@ -1,30 +1,27 @@
 # <center> Software 2 - Publiuco  #
 
-_En este repositorio encontrarás toda la documentación relacionada a el proyecto Publiuco_
+_En este repositorio encontrarás toda la documentación relacionada a el proyecto Publiuco, las carpetas que contienen la documentación base,los drivers arquitectónicos, modelo arquitectonico y modelo de componentes._
 
+## Visión del proyecto ##
 
-## Indice:
-- [Visión]()
-- [Modelo de dominio]()
+## Documentación ##
+- [Modelo de anemico]()
+- [Modelo enriquecido]()
 - [Datos simulados]()
-- [Modelo enriquecido]() 
 - [Event Storming]()
-- [Atributos de Calidad]() 
-- [Esenarios de Calidad]()
-- [Tácticas y estrategias]() 
-- [Funcionalidades Criticas]()
+- [Diagrama de clases]()
+- [Modelo Entidad Relación]()
 
-## Visión ##
-Hola! ¿Estás cansado de sentir que no tienes suficiente información sobre cómo cuidar o a dónde llevar a tu mascota para tener tiempo de calidad sin problemas? Apipet es lo que has estado buscando. Seremos un aplicativo móvil y web que contará con un mapa interactivo donde vas a poder encontrar fácilmente centros comerciales, centros de adopción y veterinarias cercanas a tu ubicación, adicionalmente, vas a poder obtener información detallada sobre sus horarios de apertura y los servicios que ofrecen. Además, ofreceremos información valiosa sobre los cuidados de tu mascota, incluyendo consejos útiles para mantenerla feliz y saludable, con la posibilidad de guardarla, como su historial de vacunación, baño y desparasitaciones: Todo, en un mismo lugar. Si bien Laika ofrece servicios similares, nuestro enfoque no estará orientado a vender productos para el cuidado de mascotas, sino en brindar información personalizada y útil para ayudarte a gestionar de mejor manera la información de tú mascota.
 
-## Modelo de dominio ##
-![]()
+## Drivers Arquitectonicos ##
+- [Atributos de calidad - MiniQAW]()
+- [Funcionalidades Criticas - Restricciones técnicas y de negocio]()
+- [Tácticas y estrategias]()
 
-## Datos simulados ##
-## Modelo enriquecido? ##
-## Event Storming ##
-## Atributos de Calidad ##
-## Esenarios de Calidad ##
-## Tácticas y estrategias ##
-## Funcionalidades Criticas ##
-## que más? ##
+## Modelo arquitectónico ##
+
+- [Modelo arquitectónico]()
+
+## Modelo de componentes ##
+
+- [Modelo de componentes]()
