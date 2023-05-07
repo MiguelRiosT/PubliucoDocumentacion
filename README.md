@@ -1,6 +1,6 @@
-# <center> Software 2 - Apipet  #
+# <center> Software 2 - Publiuco  #
 
-_En este repositorio encontrarás toda la documentación relacionada a el proyecto Apipet_
+_En este repositorio encontrarás toda la documentación relacionada a el proyecto Publiuco_
 
 
 ## Indice:
