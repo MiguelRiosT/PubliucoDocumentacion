@@ -1,5 +1,9 @@
  #  Modelo de Componentes #
 
+
+![Modelo de componentes](https://github.com/MiguelRiosT/S2Publiuco/blob/main/Modelo%20de%20Componentes/ModeloComponentesPubliuco.drawio.png)
+
+
  ## _Documentación_ ##
 
 ### Java project: ###
