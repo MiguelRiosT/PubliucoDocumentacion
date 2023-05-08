@@ -1,38 +1,37 @@
- #  Modelo de Componentes #
+ #  Drivers Arquitectónicos #
 
  ## _Documentación_ ##
 
-### Java project: ###
-- **PubliucoDTO:** Componente que ofrece los objetos de transferencia de datos para poder intercambiar información entre el componente de API y el componente Service.
+### Atributos de calidad ###
+- **Mapa de empatía:** En el mapa de empatía se puede observar que hay mayor preferencia por  
 
-- **PubliucoCrossCutting:** Componente que ofrece características aspectuales que pueden ser utilizadas de forma general por cualquier componente de la aplicación Publiuco.
+- **Priorización:** En la gráfica de priorización se observa una inclinación hacia 
 
-- **PubliucoEntity:** Componente que tiene todas las entidades de acceso a datos que serán utilizadas por el componente de repositorio para llevar a cabo las operaciones de acceso a datos.
 
-- **PubliucoRepository:** Componente que ofrece los mecanismos de acceso a datos para el proyecto Publiuco.
-
-- **PubliucoService:** Componente encargado de garantizar el cumplimiento de toda la lógica de negocio de la aplicación, asegurando que el dominio esté protegido de accesos no autorizados en la aplicación Publiuco.
-
-- **UcoCrossCutting:** Componente que ofrece características aspectuales que pueden ser utilizadas de forma general por cualquier proyecto construido sobre Java versión 20.
-
-### Spring Boot: ###
+- **Votación:** En la votación los atributos con más votos fueron...
 
 - **PubliucoApi:** Componente encargado de publicar Apis relacionados con los servicios de negocio ofrecidos por la aplicación Publiuco. 
 
-### Significado de color de los componentes: ###
+### Funcionalidades criticas  ###
 
-- **Azul**: Hace referencia a los Componentes externos necesarios para la aplicación.
-  - SpringBoot 3.0.6
-  - Java 20
-  
-- **Verde**: Hace referencia a los Componentes propios de la organización UCO.
-  - UcoCrossCutting    
+- **Funcionalidad critica 1:** la aplicación debe hacer....
 
-- **Amarillo**: Hace referencia a los Componentes propios de la aplicación Publiuco.
-  - PubliucoDTO
-  - PubliucoCrossCutting
-  - PubliucoEntity
-  - PubliucoRepository
-  - PubliucoService
-  - PubliucoApi
-  
+- **Funcionalidad critica 2:** la aplicación debe hacer....
+
+- **Funcionalidad critica 3:** la aplicación debe hacer....
+
+### Restricciones técnicas  ###
+
+- **Restrición técnica 1:** la aplicación debe hacer....
+
+- **Restrición técnica 2:** la aplicación debe hacer....
+
+- **Restrición técnica 3:** la aplicación debe hacer.
+
+### Restricciones de negocio  ###
+
+- **Restrición e negocio 1:** la aplicación debe hacer....
+
+- **Restrición e negocio 2:** la aplicación debe hacer....
+
+- **Restrición e negocio 3:** la aplicación debe hacer.
