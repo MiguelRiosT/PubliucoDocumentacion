@@ -5,6 +5,8 @@
 ### Atributos de calidad ###
 - **Mapa de empatía:** En el mapa de empatía se puede observar que hay mayor preferencia por  
 
+![Mapa de empatía](https://github.com/MiguelRiosT/S2Publiuco/blob/main/Drivers%20Arquitectonicos/Atributos%20de%20calidad/MapaEmpatia.png)
+
 - **Priorización:** En la gráfica de priorización se observa una inclinación hacia 
 
 
