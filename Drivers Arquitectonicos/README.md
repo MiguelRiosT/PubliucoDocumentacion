@@ -9,8 +9,11 @@
 
 - **Priorización:** En la gráfica de priorización se observa una inclinación hacia 
 
+![Priorización](https://github.com/MiguelRiosT/S2Publiuco/blob/main/Drivers%20Arquitectonicos/Atributos%20de%20calidad/priorizacion.png)
 
 - **Votación:** En la votación los atributos con más votos fueron...
+
+![Votación](https://github.com/MiguelRiosT/S2Publiuco/blob/main/Drivers%20Arquitectonicos/Atributos%20de%20calidad/votacion.png)
 
 - **PubliucoApi:** Componente encargado de publicar Apis relacionados con los servicios de negocio ofrecidos por la aplicación Publiuco. 
 
