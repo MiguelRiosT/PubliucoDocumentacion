@@ -15,8 +15,7 @@
 
 ![Votación](https://github.com/MiguelRiosT/S2Publiuco/blob/main/Drivers%20Arquitectonicos/Atributos%20de%20calidad/votacion.png)
 
-- **PubliucoApi:** Componente encargado de publicar Apis relacionados con los servicios de negocio ofrecidos por la aplicación Publiuco. 
-
+ 
 ### Funcionalidades criticas  ###
 
 - **Funcionalidad critica 1:** la aplicación debe hacer....
