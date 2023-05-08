@@ -18,10 +18,8 @@ _En este repositorio encontrarás toda la documentación relacionada a el proyec
 - [Funcionalidades Criticas - Restricciones técnicas y de negocio](https://github.com/MiguelRiosT/S2Publiuco/tree/main/Drivers%20Arquitectonicos/Funcionalidades%20Criticas%20y%20restricciones)
 - [Tácticas y estrategias](https://github.com/MiguelRiosT/S2Publiuco/tree/main/Drivers%20Arquitectonicos/Tacticas%20y%20estrategias)
 
-## Modelo arquitectónico ##
+## Modelos ##
 
 - [Modelo arquitectónico](https://github.com/MiguelRiosT/S2Publiuco/tree/main/Modelo%20Arquitectonico)
-
-## Modelo de componentes ##
 
 - [Modelo de componentes](https://github.com/MiguelRiosT/S2Publiuco/tree/main/Modelo%20de%20Componentes)
