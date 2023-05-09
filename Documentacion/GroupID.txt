@@ -1,5 +1,5 @@
 co.edu.uco.publiuco
---->repository JP
+--->repositoryJP
 --->service JP
 --->api SpringBoot
 --->entity JP
