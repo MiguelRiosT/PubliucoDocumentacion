@@ -29,14 +29,14 @@
   - SpringBoot 3.0.6
   - Java 20
 
-**Componente externo:** Hace referencia a un elemento o parte de la aplicación que no es desarrollado propiamente por el equipo de trabajo, este mismo se adquiere de fuentes externas.
+    **Componente externo:** Hace referencia a un elemento o parte de la aplicación que no es desarrollado propiamente por el equipo de trabajo, este mismo se adquiere de fuentes externas.
 
-Por lo tanto, un componente externo es aquel que se integra en el aplicativo pero no se desarrolla internamente.
+    Por lo tanto, un componente externo es aquel que se integra en el aplicativo pero no se desarrolla internamente.
   
 - **Verde**: Componentes propios de la organización UCO.
   - UcoCrossCutting  
 
-**Componente propio de una organización:** Hace referencia a un elemento o parte de la aplicación que es de una fuente proveniente de una organización que brinda los elementos necesarios para integrar al aplicativo.
+    **Componente propio de una organización:** Hace referencia a un elemento o parte de la aplicación que es de una fuente proveniente de una organización que brinda los elementos necesarios para integrar al aplicativo.
 
 - **Amarillo**: Componentes propios de la aplicación Publiuco.
 
@@ -48,4 +48,4 @@ Por lo tanto, un componente externo es aquel que se integra en el aplicativo per
   - PubliucoService
   - PubliucoApi
   
-**Componente propio del aplicativo:** Hace referencia a los elementos o partes de la aplicación que son desarrollados propiamente e internamente por el equipo de trabajo del aplicativo.
+    **Componente propio del aplicativo:** Hace referencia a los elementos o partes de la aplicación que son desarrollados propiamente e internamente por el equipo de trabajo del aplicativo.
